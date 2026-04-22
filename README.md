@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Kim Viet Anh! 
 
-<!--
-**anhkim333/anhkim333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+* 🎓 I'm an Information Technology student at University of Economics and Technical Industries (UNETI).
+* 💡 I'm deeply interested in Backend Development, Data Structures, and Problem Solving.
+* 🎮 In my free time, I enjoy gaming (Roblox, Rhythm games) and improving my English skills.
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+* **Programming:** C++, Java, Python
+* **Database:** T-SQL
+* **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+* Setting up and mastering Java & OOP paradigms.
+* Preparing for IELTS/TOEIC and communicating fluently in English.
+
+### 📫 How to reach me
+* **Email:** [Điền email của anh vào đây]
+* 
