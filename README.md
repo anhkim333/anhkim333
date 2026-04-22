@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kim Viet Anh! 
+# Hi there 👋, I'm Viet Anh! 
 
 ### 👨‍💻 About Me
 * 🎓 I'm an Information Technology student at University of Economics and Technical Industries.
