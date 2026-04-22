@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Kim Viet Anh! 
 
 ### 👨‍💻 About Me
-* 🎓 I'm an Information Technology student at University of Economics and Technical Industries (UNETI).
+* 🎓 I'm an Information Technology student at University of Economics and Technical Industries.
 * 💡 I'm deeply interested in Backend Development, Data Structures, and Problem Solving.
-* 🎮 In my free time, I enjoy gaming (Roblox, Rhythm games) and improving my English skills.
+* 🎮 In my free time, I improving my English skills.
 
 ### 🛠️ Languages & Tools
 * **Programming:** C++, Java, Python
